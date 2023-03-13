@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 iacta >> iacta
+hea -3 iacta | tail -1
